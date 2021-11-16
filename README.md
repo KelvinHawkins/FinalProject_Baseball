@@ -42,6 +42,7 @@ were managing when they won the award.
 success in the major leagues. Use whatever metric for success you like - number of 
 players, number of games, salaries, world series wins, etc.
 Open-ended questions: Feel free to use SQL, Python, and/or Excel to answer questions. 
+
 Group 1: Is there any correlation between number of wins and team salary? Use data from 
 2000 and later to answer this question. As you do this analysis, keep in mind that salaries across 
 the whole league tend to increase together, so you may want to look on a year-by-year basis.
